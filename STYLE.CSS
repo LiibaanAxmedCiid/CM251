@@ -1,0 +1,25 @@
+header{
+
+background-color: navy;
+color: white;
+padding: 50px;
+text-align: center;
+font-weight: bold;
+}
+nav{
+
+background-color: rgb(123, 7, 255);
+color: white;
+padding: 15;
+text-align: center;
+font-weight: bold;
+
+}
+nav a{
+
+
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
